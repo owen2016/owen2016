@@ -1,8 +1,8 @@
 ## Hi there 😃, I'm [Owen2016 !](http://devopsing.site/) 👋👋👋👋
 
 <p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/luokangyuan/count.svg" />
+  Visitor Count<br>
+  <img src="https://profile-counter.glitch.me/owen2016/count.svg" />
 </p>
 
 ## About Me
