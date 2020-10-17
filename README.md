@@ -1,7 +1,13 @@
-### Hi there 😃
+## Hi there 😃, I'm [Owen2016 !](http://devopsing.site/) 👋👋👋👋
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/luokangyuan/count.svg" />
+</p>
+
+## About Me
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=owen2016&show_icons=true&theme=graywhite"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=owen2016&show_icons=true&theme=radical"/>
 </p>
 
 <!--
@@ -17,4 +23,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<a href="https://github.com/owen2016">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=owen2016&show_icons=true&include_all_commits=true&theme=radical&hide=contribs" alt="Anurag's github stats" />
+</a>
+<a href="https://github.com/owen2016">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=owen2016&layout=compact&theme=radical" />
+</a>
 -->
