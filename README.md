@@ -1,4 +1,4 @@
-## Hello 😃, I'm [Owen2016 !](http://devopsing.site/) 👋👋👋👋
+## Hello 😃, I'm [Owen2016 !](http://blog.devopsing.site/) 👋👋👋👋
 
 <p align="left"> 
   Visitor Count<br>
