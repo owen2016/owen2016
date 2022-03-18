@@ -1,4 +1,4 @@
-## Hello 😃, I'm [Owen2016 !](http://blog.devopsing.site/) 👋👋👋👋
+## Hello 😃, I'm [Owen2016 !](https://www.cnblogs.com/FLY_DREAM/) 👋👋👋👋
 
 <p align="left"> 
   Visitor Count<br>
