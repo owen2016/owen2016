@@ -14,13 +14,13 @@
 - A devloper Engineers focused on Devops from China.
 - 📫 你可以在 **DevOps在路上** 公众号找到我
 
-[](./wechat.png)
+<p align="left">
+  <img src="https://github.com/owen2016/owen2016/blob/master/wechat.png"/>
+</p>
 
-## Learning notes about DevOps
+## Learning Notes about DevOps
 
 - [语雀笔记](https://www.yuque.com/binowen)
-
-
 
 <!--
 **owen2016/owen2016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
