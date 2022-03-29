@@ -11,16 +11,20 @@
 
 
 ## About Me
-- A devloper Engineers focused on Devops from China.
-- 📫 你可以在 **DevOps在路上** 公众号找到我
+- A devloper Engineers focused on Devops from China.:blush:
+- Agile, lean, microservices, cloud native, supply chain security, this is the best of times for DevOps! Let's practice DevOps together ~ :soccer:
+- 📫 你可以在 `DevOps在路上` 公众号找到我 
 
 <p align="left">
-  <img src="https://github.com/owen2016/owen2016/blob/master/wechat.png"/>
+  <img src="https://github.com/owen2016/owen2016/blob/master/wechat_301x96.png"/>
 </p>
 
-## Learning Notes about DevOps
+## Learning Notes about DevOps 
 
-- [语雀笔记](https://www.yuque.com/binowen) -- DevOps, DevSecOps, Git, Docker, Jenkins, Kubernetes, etc
+> Topics: DevOps, DevSecOps, agile, Git, Docker, Jenkins, Kubernetes, etc
+
+- :blue_book: [语雀笔记](https://www.yuque.com/binowen) 
+- :orange_book: [博客园](https://www.cnblogs.com/FLY_DREAM/)
 
 <!--
 **owen2016/owen2016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
