@@ -20,7 +20,7 @@
 
 ## Learning Notes about DevOps
 
-- [语雀笔记](https://www.yuque.com/binowen)
+- [语雀笔记](https://www.yuque.com/binowen) -- DevOps, DevSecOps, Git, Docker, Jenkins, Kubernetes, etc
 
 <!--
 **owen2016/owen2016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
