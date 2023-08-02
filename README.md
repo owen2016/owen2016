@@ -15,7 +15,7 @@
 - Agile, lean, microservices, cloud native, supply chain security, this is the best of times for DevOps! Let's practice DevOps together ~ :soccer:
 - 📫 你可以在 `DevOps在路上` 公众号找到我 
 
-![](https://images.cnblogs.com/cnblogs_com/FLY_DREAM/1840268/o_210415150611%E5%85%AC%E4%BC%97%E5%8F%B7.jpeg)
+[](https://images.cnblogs.com/cnblogs_com/FLY_DREAM/1840268/o_210415150611%E5%85%AC%E4%BC%97%E5%8F%B7.jpeg)
 
 ## Learning Notes about DevOps 
 
